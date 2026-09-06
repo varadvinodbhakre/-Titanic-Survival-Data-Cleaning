@@ -1,5 +1,4 @@
 # -Titanic-Survival-Data-Cleaning....
-# 🚢 Titanic Survival Data Cleaning
 
 ## 📌 Project Overview
 
@@ -84,6 +83,6 @@ The cleaned dataset can be used for:
 
 ## 👨‍💻 Author
 
-**Varad Bhakre**
+**Varad Vinodrao Bhakre**
 
-Aspiring AI/ML Engineer | Python | Machine Learning | Data Science
+Aspiring AI/DS Engineer | Python | Machine Learning | Data Science | Deep Learning | NLP 
